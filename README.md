@@ -1,2 +1,3 @@
 # 勉強リポジトリ
-conflict-remote上で更新
+diff練習用
+変更staging用（1st）
