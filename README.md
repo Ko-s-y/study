@@ -1,2 +1,2 @@
 # 勉強リポジトリ
-no-fast-forwardブランチで変更
+mainブランチで変更(conflict発生する)
