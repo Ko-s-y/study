@@ -1,3 +1,3 @@
 # 勉強リポジトリ
 diff練習用
-mainブランチにて変更
+featureブランチにてmergeツール試用
